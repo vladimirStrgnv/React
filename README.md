@@ -1,2 +1,2 @@
-# React
-react mini projects
+# Description
+mini food store project
