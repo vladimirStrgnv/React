@@ -1,9 +1,12 @@
-function App() {
+import Header from "./components/Layout/Header";
+import React from 'react';
+ 
+const App = () => {
   return (
-    <div>
-      <h2>Стартовый Проект</h2>
-    </div>
-  );
+    <React.Fragment>
+      <Header></Header>
+    </React.Fragment>
+  )
 }
 
 export default App;
